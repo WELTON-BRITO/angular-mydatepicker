@@ -168,5 +168,8 @@
       }
     }
   },
-  "defaultProject": "angular-mydatepicker-example"
+  "defaultProject": "angular-mydatepicker-example",
+  "cli": {
+    "analytics": "c88263b2-9db9-4664-b19e-a9574b9a89f9"
+  }
 }
